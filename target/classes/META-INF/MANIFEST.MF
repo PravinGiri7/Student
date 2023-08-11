@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: StudentBeta
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Pravin Giri
+Implementation-Vendor-Id: Studentsh
+Build-Jdk: 1.8.0_301
+Implementation-URL: https://spring.io/projects/spring-boot/StudentBeta
+Created-By: Maven Integration for Eclipse
+
